@@ -13,7 +13,7 @@ const Home = () => {
                     Hi, I'm Shun.
                 </h2>
                 <h2 className='text-4xl sm:text-5xl font-bold text-white'>
-                    I am a student, engineer, and an aspiring developer.
+                    I am a student, researcher, and an aspiring software developer.
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
                     I have 10 years of experience building and designing software.

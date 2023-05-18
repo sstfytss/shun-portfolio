@@ -3,24 +3,22 @@ import ProfileImage from '../assets/heroImage.png'
 
 const About = () => {
   return (
-    <div name="about" className='w-full h-screen bg-gradient-to-b
-    from-gray-800 to-black text-white'>
+    <div name="about" className='w-full h-screen bg-white text-black'>
         <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center
         w-full h-full'>
-            <div className='pb-8'>
-                <p className='text-4xl font-bold inline
-                border-b-4 border-gray-500'>
-                    About
+            <div className='pb-8 pt-16'>
+                <p className='text-4xl font-bold'>
+                    ABOUT
                 </p>
             </div>
 
-            <div className='flex items-center justify-center h-full space-x-4 md:flex-row'>
+            <div className='flex items-center justify-center h-full space-x-8 md:flex-row'>
                 <div className='min-h-full w-1/2'>
-                    <h1 className='text-xl sm:text-5xl pb-1 font-bold text-white'>Shun Sakai</h1>
-                    <h2 className='text-base sm:text-4xl pb-4 font-bold text-white'>酒井 駿</h2>
-                    <h2 className='text-xl sm:text-2xl pb-8 text-white'>Duke University</h2>
-                    <p className='text-xl'>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod aliquam ea excepturi, repellendus odit quaerat quibusdam hic sed pariatur deserunt qui quidem ut dicta, fuga nulla vitae repellat explicabo omnis eveniet soluta asperiores. Qui quos magni nulla molestias! Maiores, vitae nulla ex tempore atque explicabo porro veniam. Quos, totam illo.
+                    <h1 className='text-3xl sm:text-4xl pb-1 font-bold text-black'>Shun Sakai</h1>
+                    <h2 className='text-3xl sm:text-4xl pb-4 text-black'>酒井 駿</h2>
+                    <h2 className='text-xl sm:text-2xl pb-8 text-black'>Duke University</h2>
+                    <p className='text-base pb-16'>
+                        I am a rising junior at Duke University double majoring in Electrical and Computer Engineering and Computer Science with a certificate in Innovation and Entrepreneurship. My passions lie at the intersection of hardware and software technologies, and I aspire to develop innovative products for the betterment of the global community. 
                     </p>
                 </div>
 
