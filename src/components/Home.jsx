@@ -13,8 +13,8 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r to-green-300 from-cyan-300'>
                     Hi, I'm Shun.
                 </h2>
-                <h2 className='text-4xl sm:text-6xl font-bold text-white'>
-                    I am a student, engineer, and aspiring developer.
+                <h2 className='text-4xl sm:text-5xl font-bold text-white'>
+                    I am a student, engineer, and an aspiring developer.
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
                     I have 10 years of experience building and designing software.
