@@ -9,7 +9,7 @@ const Career = () => {
                 EXPERIENCE
             </p>
             <p className='text-2xl font-bold'>
-                Ametek - Zygo Corportation
+                Ametek - Zygo Corporation
             </p>
             <p className='font-bold pb-8'>Software Engineering Intern</p>
 
